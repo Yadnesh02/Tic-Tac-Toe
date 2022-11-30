@@ -3,7 +3,7 @@
 Game build using Java Swing.
 
 First player will get random ‘X’ or ‘O’.
-The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner for that round.
+The first player to get 3 of his/her marks[X or O] in a row (up, down, across, or diagonally) is the winner for that round.
 If no player has 3 marks in a row, the game ends in a tie.
 
 
